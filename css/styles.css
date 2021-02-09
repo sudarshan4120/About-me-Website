@@ -1,0 +1,134 @@
+body{
+
+  margin:0px;
+  text-align: center;
+  background-color: #bbded6;
+  font-family: 'Merriweather Sans', sans-serif;
+  line-height: 200%}
+
+h1{
+  color: white;
+  font-size: 565%;
+  margin: 0 auto 0 auto;
+  font-family: 'Sacramento', cursive;
+  line-height: 2;
+
+}
+p{
+  margin-top: 20px;
+  font-family: 'Montserrat', cursive;
+  font-weight: bold;
+  font-size: 90;
+}
+hr{
+  margin-top: 20px;
+  border: 10px dotted gray;
+    border-style: none none dotted;
+    width: 50px;
+    background-color: #bbded6;
+}
+
+h3{
+  color: #03506f;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 90;
+}
+span{
+  text-decoration: underline;
+  font-size: ;
+}
+.top-container{
+
+  background-color:  #51c0bf;
+  padding-top: 100px;
+  position: relative;
+}
+
+.topcloud{
+  position: absolute;
+  right:450px;
+  top: 50px;
+
+}
+.bottomcloud{
+  position: absolute;
+}
+.propic{
+  border-radius: 100px;
+  height: 200px;
+  width: 200px;
+  background-color: black;
+}
+.computer{
+  border-radius: 100px;
+  height: 200px;
+  width: 25%;
+  float: left;
+  margin-right: 20px;
+}
+.violin{
+  border-radius: 100px;
+  height: 200px;
+  width: 25%;
+  float:right;
+  margin-right: 20px;
+}
+
+
+.skill-row{
+  width: 50%;
+  margin: 100px auto 100px auto ;
+  text-align: left;
+  line-height: 2;
+
+}
+.BUTTON_UPX {
+   -webkit-border-radius: 100px;
+   -moz-border-radius: 100px;
+   border-radius: 100px;
+   height: 10px;
+   line-height: 10px;
+   color: #FFFFFF;
+   font-family: Verdana;
+   width: 149px;
+   font-size: 18px;
+   padding: 15px;
+   background-color: #61C0BF;
+   text-shadow: 0 0 0 #000000;
+   text-decoration: none;
+   display: inline-block;
+   cursor: pointer;
+   text-align: center;
+   margin: 10px auto 10px auto;
+}
+
+.BUTTON_UPX:hover {
+   border: solid #61C0BF 1px;
+   background: #61C0BF;
+   background-image: -webkit-linear-gradient(top, #61C0BF, #61C0BF);
+   background-image: -moz-linear-gradient(top, #61C0BF, #61C0BF);
+   background-image: -ms-linear-gradient(top, #61C0BF, #61C0BF);
+   background-image: -o-linear-gradient(top, #61C0BF, #61C0BF);
+   background-image: -webkit-gradient(to bottom, #61C0BF, #61C0BF);
+   -webkit-border-radius: 20px;
+   -moz-border-radius: 20px;
+   border-radius: 20px;
+   text-decoration: none;
+}
+.middle-container{
+  margin-top: 20px
+}
+a{
+  text-decoration: none;
+  color: #ffb6b9;
+  margin-right: 20px;
+  position: center;
+}
+.bottom-container{
+  background-color: #03506f;
+  height: 150px;
+  position: relative;
+}
+.trademark{
+  color: white;
+}
